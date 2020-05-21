@@ -7,7 +7,7 @@
 
 Monitora todos os arquivos enviados para a plataforma fluig e caso seja um MP4 converte ele para um formato mais leve para evitar o consumo de banda.
 
-![](../header.png)
+![](./fluig-partner.png)
 
 ## Instalação
 
