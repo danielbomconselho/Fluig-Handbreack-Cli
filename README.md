@@ -1,10 +1,6 @@
 # Fluig-Handbreak-Cli
 > Converte videos para a plataforma fluig.
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
-
 Monitora todos os arquivos enviados para a plataforma fluig e caso seja um MP4 converte ele para um formato mais leve para evitar o consumo de banda.
 
 ![](./fluig-partner.png)
