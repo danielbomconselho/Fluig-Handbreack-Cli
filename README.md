@@ -28,9 +28,9 @@ Basta descompactar o HandBrakeCLI-1.3.2-win-x86_64.zip em uma pasta do sistema e
 
 ## Meta
 
-Seu Nome – [@SeuNome](https://twitter.com/...) – SeuEmail@exemplo.com
+Daniel Bom Conselho Sales– [@danielbomconselhosales](https://www.instagram.com/bomconselhosales/) – danielbomconselho@gmail.com
 
 Distribuído livremente. 
-Handbreakcli e de propriedade dos seus autores.
+Handbreakcli é de propriedade dos seus autores.
 
-[https://github.com/danielbomconselho/Fluig-Handbreak-Cli](https://github.com/danielbomconselho/)
+[https://github.com/danielbomconselho/](https://github.com/danielbomconselho/)
