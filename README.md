@@ -27,6 +27,7 @@ Basta descompactar o HandBrakeCLI-1.3.2-win-x86_64.zip em uma pasta do sistema e
 Daniel Bom Conselho Sales– [@danielbomconselhosales](https://www.instagram.com/bomconselhosales/) – danielbomconselho@gmail.com
 
 Distribuído livremente. 
-Handbreakcli é de propriedade dos seus autores.
+[Handbreak](https://handbrake.fr/) é de propriedade dos seus autores.
+
 
 [https://github.com/danielbomconselho/](https://github.com/danielbomconselho/)
